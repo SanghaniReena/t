@@ -1,0 +1,7 @@
+react:-
+reactstrap
+react-router-dom(BrowserRouter as Router)
+react-redux
+redux
+redux-thunk
+axios

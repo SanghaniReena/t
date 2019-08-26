@@ -1,0 +1,13 @@
+To setup:
+- open same folder in vsCode.
+- open terminal
+- npm init  -enter till ok(if you want to change name of file enter in fname in entery point).
+- you can see package.json in mail folder.
+
+
+
+To start server - 
+execute startMongoDB.bat file :-
+cd C:\Program Files\MongoDB\Server\4.2\bin
+mongo.exe --dbpath C:\Users\Reena\mongo-data
+27017

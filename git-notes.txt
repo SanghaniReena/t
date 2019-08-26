@@ -1,0 +1,9 @@
+   1 git init
+   2 git add .
+   3 git status
+   4 git rm -r --cached node_modules
+   5 git commit -m "First commit Done mongo DB connection And create first Scema"
+   6 git push origin master
+   7 git remote -v
+   8 git remote add origin https://github.com/SanghaniReena/demoProjects.git
+   9 git push origin master
